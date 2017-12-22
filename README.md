@@ -1,6 +1,8 @@
 # stencil-cordova
 my attempt to use cordova and stencil... together.
 
+I ran `cordova create` and cloned the stencil-starter and did a manual "merge" of the two folders... i.e., updated the `package.json`, copied files from stencil-starter to the cordova project... etc.
+
 
 What I tried:
 - `npm install`
